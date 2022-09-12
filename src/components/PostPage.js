@@ -4,8 +4,6 @@ import DataContext from '../context/DataContext';
 import api from '../data/api/posts';
 
 
-
-
 const PostPage = () => {
 	const{ posts, setPosts }= useContext(DataContext);
 	const { id } = useParams();
