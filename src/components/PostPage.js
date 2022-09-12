@@ -12,7 +12,6 @@ const PostPage = () => {
 	const post = posts.find(post => (post.id).toString() === id);
 	const history = useNavigate();
 
-	
 
     const handeleDelete = async (id) => {
         try {
