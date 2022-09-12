@@ -1,7 +1,7 @@
 {
   "name": "02tut_",
   "version": "0.1.0",
-  "homepage": "https://MOUTIK.github.io/react-deploy01",
+  "homepage": "https://MOUTIK.github.io/react_deploy01",
   "private": true,
   "dependencies": {
     "axios": "^0.27.2",
